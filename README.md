@@ -1,39 +1,23 @@
-![Tool Logo][imglogo]
+![Splash Image for the Archive][imglogo]
 
 
-# Title
-Description of contents
+# The DSL Podcast
 
-### First header
-Content
+The purpose of this site is to store the audio files and transcriptions for the Steering the Digital Scholarship podcast run by the Brock University Digital Scholarship Lab as well as describe it's history from its inception to eventual end.
 
-### Second Header
+This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicated to discussing the development of the Digital Scholarship Lab and Digital Scholarship related topics.  Afters years of fun and invigorating discussion, the podcast has been laid to rest here in this archive so that it might still be referenced for years to come.
 
-Content
 
-### Etc.
- 
- 
+### The History
+
+
  
 
   
 **This site is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
   
-You can also find us on:  
-[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
-[Twitter](https://twitter.com/brock_dsl)  
-[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
-[YouTube](https://www.youtube.com/channel/UC2eEqPkDo-1N3qilxv-N_1g/featured?view_as=subscriber)
-
-
-
-
-
-
-
-
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-[imglogo]: INSERT LOGO FILENAME HERE
+[imglogo]: Steering-the-Digital-Scholarship-Splash.png
