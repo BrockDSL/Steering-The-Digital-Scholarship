@@ -18,8 +18,11 @@ The podcast ran for more than four years as a semi-frequent acctivity in the Dig
 
 ### The final port
 
- 
+
 ----
+
+![episode 1](Podcast-Episodes/1-STDS-Audio.mp4)
+
   
 **This site is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
   
