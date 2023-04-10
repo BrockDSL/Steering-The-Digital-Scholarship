@@ -248,8 +248,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
 - **Episode 30 - Pie and Preservation**
 
     In this episode: Interview with Brock Archivist David Sharron, Pie talk, Distant hugs, Poems. 
-
-Also check out the [Niagara Covid Archive](https://exhibits.library.brocku.ca/s/COVID-Niagara/)
+    
+    Also check out the [Niagara Covid Archive](https://exhibits.library.brocku.ca/s/COVID-Niagara/)
 
 <audio controls>
   <source src="Podcast-Episodes/30-STDS-Audio.mp3" type="audio/mpeg">
@@ -271,7 +271,7 @@ Also check out the [Niagara Covid Archive](https://exhibits.library.brocku.ca/s/
   <source src="Podcast-Episodes/32-STDS-Audio.mp3" type="audio/mpeg">
 </audio>
 
-## Episode 33 - Recipe For Success
+- **Episode 33 - Recipe For Success**
 
     In this episode: Pork, Cheese, Ramen, Workshops Redux
 
@@ -303,7 +303,7 @@ Also check out the [Niagara Covid Archive](https://exhibits.library.brocku.ca/s/
   <source src="Podcast-Episodes/36-STDS-Audio.mp3" type="audio/mpeg">
 </audio>
 
-- **Episode 37 - 2020 A Year in Review
+- **Episode 37 - 2020 A Year in Review**
 
     In this episode: Games, Top 5's, Bragging about [DASA](https://twitter.com/brock_dsl/status/1220066096813891590, and [Library Juice](https://libraryjuiceacademy.com/shop/course/270-python-for-librarians), Podcast stats quiz explosion
 
