@@ -5,7 +5,7 @@
 
 The purpose of this site is to store the audio files and transcriptions for the Steering the Digital Scholarship podcast run by the Brock University Digital Scholarship Lab as well as describe it's history from its inception to eventual end.
 
-This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicated to discussing the development of the Digital Scholarship Lab and Digital Scholarship related topics.  With the shutdown of the physical Digital Scholarship Lab in 2022 the podcast was also discontinued.
+This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicated to discussing the development of the Digital Scholarship Lab and Digital Scholarship related topics.  With the shutdown of the physical Digital Scholarship Lab in 2022 the podcast was also evenually discontinued.
 
 
 ----
