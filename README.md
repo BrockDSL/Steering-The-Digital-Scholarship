@@ -31,7 +31,7 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
       <source src="Podcast-Episodes/2-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
     
-    [Transcript](https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/2-STDS-Transcript.txt)
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/2-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 3 - Books and Hurdles**
     
@@ -40,6 +40,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/3-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/3-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 4 - Working and Welcoming**
 
@@ -48,6 +50,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/4-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/4-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 5 - Ice Cream and Audio**
 
@@ -56,6 +60,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/5-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/5-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 6 - Finding Our Place in the World**
 
@@ -64,6 +70,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/6-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/6-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 7 - Are We There Yet**
 
@@ -72,6 +80,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/7-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/7-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 8 - Are Pods Fads?**
 
@@ -80,6 +90,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/8-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/8-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 9 - Animals and Big Dream$**
 
@@ -88,6 +100,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/9-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/9-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 10 - Learning and Imposters**
 
@@ -96,6 +110,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/10-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/10-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 11 - Sharing and Caring**
 
@@ -104,6 +120,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/11-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/11-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 12 - Villains and the Audience**
 
@@ -112,6 +130,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/12-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/12-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 13 - Jobs and GIS**
 
@@ -120,6 +140,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/13-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/13-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 14 - Storytelling**
 
@@ -128,6 +150,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/14-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/14-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 15 - Smells and Wellness**
 
@@ -136,6 +160,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/15-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/15-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 16 - Time Travel**
 
@@ -144,6 +170,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/16-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/16-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 17 - Friends and Makers**
 
@@ -152,6 +180,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/17-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/17-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 18 - Drinks and Pets**
 
@@ -160,6 +190,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/18-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/18-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 19 - Campus Memories**
 
@@ -168,6 +200,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/19-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/19-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 20 - Milestones**
 
@@ -176,6 +210,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/20-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/20-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 21 - Seasons and Self**
 
@@ -184,6 +220,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/21-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/21-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 22 - Decades and Moores Law**
 
@@ -192,6 +230,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/22-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/22-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 23 - Dance Moves and December**
 
@@ -200,6 +240,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/23-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/23-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 24 - Summer and Spaces**
 
@@ -208,6 +250,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/24-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/24-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 25 - Doing Things**
 
@@ -216,6 +260,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/25-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/25-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 26 - Game Shows and Surveys**
 
@@ -224,6 +270,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/26-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/26-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 27 - Goodbye and Special Days**
 
@@ -232,6 +280,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/27-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/27-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 28 - Sidekicks and Summer**
 
@@ -240,6 +290,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/28-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/28-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 29 - Toppings and Topics**
 
@@ -248,6 +300,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/29-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/29-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 30 - Pie and Preservation**
 
@@ -258,6 +312,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/30-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/30-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 31 - Computer Origami**
 
@@ -266,6 +322,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/31-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/31-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 32 - Training Montage**
 
@@ -274,6 +332,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/32-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/32-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 33 - Recipe For Success**
 
@@ -282,6 +342,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/33-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/33-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 34 - Whats New Makerspace?**
 
@@ -290,6 +352,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/34-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/34-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 35 - Our international Audience**
 
@@ -298,6 +362,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/35-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/35-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 36 - Podcast Inside Baseball**
 
@@ -306,6 +372,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/36-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/36-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 37 - 2020 A Year in Review**
 
@@ -314,6 +382,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/37-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/37-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 38 - Interview with DASA**
 
@@ -322,6 +392,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/38-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/38-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 39 - DSI 2021**
 
@@ -330,6 +402,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/39-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/39-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 40 - Return to Form**
 
@@ -338,6 +412,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/40-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/40-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 41 - Fireside Chat on Digital Scholarship**
 
@@ -346,6 +422,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/41-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/41-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 42 - Life, the Universe, and Everything**
 
@@ -354,6 +432,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/42-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/42-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 43 - Now What?**
 
@@ -362,6 +442,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/43-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/43-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 44 - Cake on the Islands**
 
@@ -370,6 +452,8 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
     <audio controls>
       <source src="Podcast-Episodes/44-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
+    
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/44-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 
 
