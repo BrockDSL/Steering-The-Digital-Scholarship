@@ -21,7 +21,7 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
       <source src="Podcast-Episodes/1-STDS-Audio.mp3" type="audio/mpeg">
     </audio>
     
-    <p><a href="[website-link-goes-here](https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/1-STDS-Transcript.txt)" target="_blank">Transcript</a></p>
+    <p><a href="https://raw.githubusercontent.com/BrockDSL/Steering-The-Digital-Scholarship/master/Podcast-Episodes/1-STDS-Transcript.txt" target="_blank">Transcript</a></p>
 
 - **Episode 2 - Pie and Planning**
     
