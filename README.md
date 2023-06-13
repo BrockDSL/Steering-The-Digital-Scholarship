@@ -12,7 +12,6 @@ This podcast ran from late 2018 to early 2023 and encompased 44 episodes dedicat
 
 ## Podcast Episodes
 
-
  - **Episode 1 - Welcome to the Ship!**
     
     In this episode: Questions from Tim, One Thing, and Upcoming Events
